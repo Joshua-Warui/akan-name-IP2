@@ -1,2 +1,2 @@
 var male = ["Kwasi","Kwadwo","Kwabena","Kwaku","Yaw","Kofi","Kwame"];
-console.log(male[3]);
+var female = ["Akosua","Adwoa","Abena","Akua"]
