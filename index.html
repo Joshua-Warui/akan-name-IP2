@@ -22,7 +22,7 @@
         <p>Fill in the form below and all your questions will be answered.</p>
       </div>
       <div class="card">
-        <form>
+        <form onsubmit="return false">
           <div class="form-group">
              <label for="day">Day</label>
             <input type="number" id="day" class="form-control" placeholder="01">
@@ -35,8 +35,18 @@
             <label for="year">Year</label> 
             <input type="number" id="year" class="form-control" placeholder="2020">  
           </div>
-          
+          <div class="form-group">
+            <label for="gender">Gender</label>
+            <select id="gender" name="gender" class="form-control">
+              <option value="male">Male</option>
+              <option value="female">Female</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <input type="submit" onclick="akanName()" class="submit-btn">
+          </div>
         </form>
+        <p id="akan-name"></p>
       </div>
     </div>
   </body>
