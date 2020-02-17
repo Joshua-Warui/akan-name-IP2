@@ -8,13 +8,13 @@ function akanName(CC,YY,MM,DD){
   var gender = document.getElementById("gender").value;
   var arrayPosition = new Date(`${year}-${month}-${date}`);
   arrayPosition = arrayPosition.getDay();
-  
   if (date < 1 || date >31){
     alert("Type a date between 01 and 31")
   } else if(month <1 || month>12){
     alert("Type a month between 01 and 12")
+  }else{
+    console.log("DOB seems fine");
   };
-
   if(gender === "male"){
     sex = male;
   } else {

@@ -32,6 +32,11 @@ body {
   background-color: rgba(163, 39, 39, 0.5);
 }
 
-.form-control {
-
+#akan-name {
+  padding: 2%;
+  margin: 5px;
+  display: block;
+  background-color: black;
+  border-radius: 5px;
+  text-align: center;
 }
