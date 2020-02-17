@@ -40,3 +40,9 @@ body {
   border-radius: 5px;
   text-align: center;
 }
+
+.submit-btn {
+  margin: 5px;
+  padding: 1%;
+  border-radius: 10px;
+}
