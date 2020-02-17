@@ -2,11 +2,11 @@
 ### This is a web app intended to display your akan name based on DOB, 09/02/2020
 ### By Joshua Warui
 #### Description
-In the second week of Moringa Prep I learned about using javascript to make a page interactive. This web app works by calculating the index of your DOB between 0 and 6 then assigning it to the day of the week you were born. It 
+In the second week of Moringa Prep I learned about using javascript to make a page interactive. This web app works by calculating the index of your DOB between 0 and 6 then assigning it to the day of the week you were born and a name for that day based on your gender.
 #### Instructions
 This is a website. Copy the URL and paste it in your browser or click on the link below.
 #### Technologies Used
-
+HTML, CSS, BOOTSTRAP, JAVASRIPT
 #### Link to live site
 [Portfolio GitHub Page](https://joshua-warui.github.io/akan-name-IP2)
 #### License
