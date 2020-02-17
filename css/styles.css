@@ -1,7 +1,8 @@
 body {
   color: bisque;
   background-image: url("https://st.depositphotos.com/2660985/3252/i/950/depositphotos_32529501-stock-photo-african-background.jpg");
-  font-family:'kalam'
+  font-family:'kalam';
+  font-weight: bolder;
 }
 
 .jumbotron {
