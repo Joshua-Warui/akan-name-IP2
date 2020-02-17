@@ -9,6 +9,8 @@ This is a website. Copy the URL and paste it in your browser or click on the lin
 HTML, CSS, BOOTSTRAP, JAVASRIPT
 #### Link to live site
 [Portfolio GitHub Page](https://joshua-warui.github.io/akan-name-IP2)
+#### Contact Information
+E-mail:josh.w.warui52@gmail.com     Phone Number: +254718203076
 #### License
 Copyright 2020 Joshua Warui
 
